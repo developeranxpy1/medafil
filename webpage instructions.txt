@@ -1,0 +1,76 @@
+1. Number of Pages
+The website will consist of the following main pages:
+Home
+
+
+About Us
+
+
+Services
+
+
+Separate individual pages for each service with detailed explanations
+
+
+Our Doctors / Team
+
+
+Main listing page
+
+
+Separate detailed profile pages for each doctor (if required by the client)
+
+
+Gallery
+
+
+Blog / Health Tips
+
+
+Contact / Appointment Form
+
+
+This structure ensures clarity for users and supports future SEO and content expansion.
+
+2. Navigation Structure
+The primary navigation will include:
+Home
+
+
+About Us
+
+
+Services (with dropdown for individual service pages)
+
+
+Our Doctors / Team
+
+
+Blog / Health Tips
+
+
+Gallery
+
+
+Contact / Appointment
+
+
+Doctor profile pages and individual service pages will be internally linked from their respective main pages to maintain clean navigation and user flow.
+
+3. Plan for Completion
+First draft will be shared with the client for review.
+
+
+After receiving client feedback and final change requests, it will take approximately 3 working days to implement all revisions.
+
+
+Post changes, the website will be finalized for launch readiness.
+
+
+
+4. First Draft URL Timeline
+The first draft URL will be shared on 29th December (Monday).
+
+
+This version will be fully functional and ready for client review and feedback.
+
